@@ -6,7 +6,7 @@
 
 # intro_data_types.py
 
-# Code written by Jose "Joe" Ruiz
+# Code written by Jose "Joe" Ruiz, for my personal use
 
 # Modified instructors code to be more Pythonic and readable
 
