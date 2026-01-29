@@ -22,7 +22,7 @@ clear_screen()
 # Create the function
 def namer(first_name):
     count = 0
-    for letter in first_name:
+    for _ in first_name:
         count += 1
 
     return(count)
